@@ -30,8 +30,8 @@ console.log(colorMode.preference)
       <div class="max-w-[1240px] mx-auto h-[40px]  flex flex-row items-center gap-2 md:gap-6 relative">
 
         <div class="flex flex-row items-center gap-1">
-          <img class="w-[30px] h-[30px] md:w-[40px] md:h-[40px] cursor-pointer" src="@/assets/my-logo.png" alt="logo" @click="goHome()">
-          <h1 class="hidden md:block text-[14px] font-serif font-bold cursor-pointer dark:text-white" @click="goHome()" >爱盼-网盘资源搜索</h1>
+          <img class="w-[30px] h-[30px] md:w-[40px] md:h-[40px] cursor-pointer" src="@/assets/my-logo.webp" alt="logo" @click="goHome()">
+          <h1 class="hidden md:block text-[14px] font-serif font-bold cursor-pointer dark:text-white" @click="goHome()" >追剧自由-浪漫宇宙系</h1>
         </div>
 
         <div class="w-[220px] md:w-[400px]">

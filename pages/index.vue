@@ -56,8 +56,8 @@ onMounted(async () => {
       </client-only>
     </div>
     <div class="flex flex-row items-center justify-center gap-3 mt-[80px]">
-      <img class="w-[40px] h-[40px] sm:w-[60px] sm:h-[60px]" src="@/assets/my-logo.png" alt="logo">
-      <h1 class="text-[18px] sm:text-[22px] font-serif font-bold dark:text-white ">爱盼-网盘资源搜索</h1>
+      <img class="w-[40px] h-[40px] sm:w-[60px] sm:h-[60px]" src="@/assets/my-logo.webp" alt="logo">
+      <h1 class="text-[18px] sm:text-[22px] font-serif font-bold dark:text-white ">追剧自由-浪漫宇宙系</h1>
     </div>
 
     <div class="max-w-[1240px] mx-auto mt-[20px]">
