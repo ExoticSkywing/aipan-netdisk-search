@@ -101,15 +101,15 @@ onMounted(async () => {
 
     <div class="p-4">
       <div class="flex flex-row items-center justify-center  gap-3 my-3">
-        <a class="" href="https://github.com/unilei/aipan-netdisk-search">
+        <a class="" href="https://spark.moony.la">
           <img class="w-[30px] h-[30px]" src="@/assets/skill-icons--github-dark.svg" alt="github">
         </a>
-        <el-button link color="#ffffff" @click="donate()">
-          <img class="w-[30px] h-[30px]" src="@/assets/donation/dashang.svg" alt="打赏">
-        </el-button>
+        <a class="" href="https://chat.1yo.cc">
+          <img class="w-[30px] h-[30px]" src="@/assets/donation/dashang.svg" alt="群组">
+        </a>
       </div>
       <p class="text-center text-[8px] sm:text-[12px] text-slate-400">
-        声明：本站不产生/存储任何数据，也从未参与录制、上传，所有资源均来自网络。
+        不再当韭菜，影视资源随心看📽️
       </p>
     </div>
   </div>

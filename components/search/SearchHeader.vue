@@ -16,7 +16,7 @@ const search = () => {
   emit('search',searchKeyword.value)
 }
 const goGithub = () => {
-  window.open('https://github.com/unilei/aipan-netdisk-search.git')
+  window.open('https://spark.moony.la')
 }
 const colorMode = useColorMode()
 
