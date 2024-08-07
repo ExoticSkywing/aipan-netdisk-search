@@ -108,12 +108,15 @@ onMounted(async () => {
           <img class="w-[30px] h-[30px]" src="@/assets/donation/dashang.svg" alt="群组">
         </a>
       </div>
-      <p class="text-center text-[8px] sm:text-[12px] text-slate-400">
-        声明：本站内容皆来自网络公开资源。本站不储存、复制、传播任何文件，不做任何盈利，仅作个人公益学习，请勿非法&商业传播，如有侵权，请及时
-        <a class="text-blue-500 underline" href="mailto:ahagwybwqs@gmail.com" title="点击留言"> 留言 </a> 告知删除。
-
-        不再当韭菜，影视资源随心看📽️
-      </p>
+      <div class="flex flex-col items-center">
+        <p class="text-xs sm:text-sm text-gray-300 mb-2">
+            声明：本站内容皆来自网络公开资源。本站不储存、复制、传播任何文件，不做任何盈利，仅作个人公益学习，请勿非法&商业传播，如有侵权，请及时
+            <a class="text-blue-400 hover:underline" href="mailto:nebuluxe@1yo.cc" title="点击留言"> 留言 </a> 告知删除。
+        </p>
+        <p class="text-xs sm:text-sm text-gray-400">
+            不再当韭菜，影视资源随心看📽️
+        </p>
+      </div>
     </div>
   </div>
 </template>
