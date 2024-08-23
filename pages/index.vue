@@ -101,11 +101,11 @@ onMounted(async () => {
 
     <div class="p-4">
       <div class="flex flex-row items-center justify-center  gap-3 my-3">
-        <a class="" href="https://spark.moony.la">
-          <img class="w-[30px] h-[30px]" src="@/assets/skill-icons--github-dark.svg" alt="github">
+        <a class="" href="https://spark.noxox.cn">
+          <img class="w-[30px] h-[30px]" src="https://img.1yo.cc/i/2024/07/08/668bdf0c210f0.webp" alt="github">
         </a>
-        <a class="" href="https://chat.1yo.cc">
-          <img class="w-[30px] h-[30px]" src="@/assets/donation/dashang.svg" alt="群组">
+        <a class="" href="https://chat.1yo.cc/invite/v2fdNgHC">
+          <img class="w-[30px] h-[30px]" src="@/assets/donation/twitter-x-fill.svg" alt="群组">
         </a>
       </div>
       <div class="flex flex-col items-center">
