@@ -99,12 +99,12 @@ onMounted(async () => {
       </div>
     </div>
 
-    <div class="p-4">
+    <div class="p-4">               
       <div class="flex flex-row items-center justify-center  gap-3 my-3">
-        <a class="" href="https://spark.noxox.cn">
+        <a class="" href="https://lmyz.noxox.cn">
           <img class="w-[30px] h-[30px]" src="https://img.1yo.cc/i/2024/07/08/668bdf0c210f0.webp" alt="github">
         </a>
-        <a class="" href="https://chat.1yo.cc/invite/v2fdNgHC">
+        <a class="" href="https://t.me/+D833AK_gBgI3YWQx">
           <img class="w-[30px] h-[30px]" src="@/assets/donation/twitter-x-fill.svg" alt="群组">
         </a>
       </div>

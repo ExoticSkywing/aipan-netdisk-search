@@ -16,7 +16,7 @@ const search = () => {
   emit('search',searchKeyword.value)
 }
 const goGithub = () => {
-  window.open('https://spark.moony.la')
+  window.open('https://lmyz.noxox.cn')
 }
 const colorMode = useColorMode()
 
