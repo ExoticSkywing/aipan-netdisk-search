@@ -11,8 +11,8 @@ const goHome = () => {
     <div class="shadow px-[20px] py-[10px] backdrop-blur bg-white/70 dark:bg-gray-800">
       <div class="max-w-[1240px] mx-auto h-[40px]  flex flex-row items-center justify-between">
         <div class="flex flex-row items-center justify-center gap-1">
-          <img class="w-[40px] h-[40px] cursor-pointer" src="@/assets/my-logo.png" alt="logo" @click="goHome()">
-          <h1 class="text-xl font-semibold cursor-pointer dark:text-white" @click="goHome()">爱盼-网盘资源搜索</h1>
+          <img class="w-[40px] h-[40px] cursor-pointer" src="https://api.minio.ysl.monster/nebuluxe/halosparkpix/cocktail%20(1).png" alt="logo" @click="goHome()">
+          <h1 class="text-xl font-semibold cursor-pointer dark:text-white" @click="goHome()">全息甲板-网盘资源搜索</h1>
         </div>
         <client-only>
           <div class="flex flex-row items-center gap-2">

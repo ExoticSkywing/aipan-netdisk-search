@@ -16,7 +16,7 @@ const search = () => {
   emit('search', searchKeyword.value)
 }
 const goGithub = () => {
-  window.open('https://github.com/unilei/aipan-netdisk-search.git')
+  window.open('https://lmyz.1yo.cc')
 }
 const colorMode = useColorMode()
 
@@ -30,9 +30,9 @@ console.log(colorMode.preference)
       <div class="max-w-[1240px] mx-auto h-16 flex flex-row items-center gap-3 md:gap-8 relative">
         <div class="flex flex-row items-center gap-2 hover:opacity-80 transition-opacity">
           <img class="w-[32px] h-[32px] md:w-[42px] md:h-[42px] cursor-pointer transform hover:rotate-12 transition-transform duration-300" 
-            src="@/assets/my-logo.png" alt="logo" @click="goHome()">
+            src="https://api.minio.ysl.monster/nebuluxe/halosparkpix/cocktail%20(1).png" alt="logo" @click="goHome()">
           <h1 class="hidden md:block text-base font-bold cursor-pointer text-gray-700 dark:text-white hover:text-primary transition-colors" 
-            @click="goHome()">爱盼-网盘资源搜索</h1>
+            @click="goHome()">全息甲板-网盘资源搜索</h1>
         </div>
         <div class="w-[240px] md:w-[420px]">
           <client-only>
@@ -64,7 +64,7 @@ console.log(colorMode.preference)
           <el-button 
             class="github-btn !h-9 !w-9 rounded-full flex items-center justify-center hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors"
             @click="goGithub()">
-            <img class="w-[22px] h-[22px]" src="@/assets/skill-icons--github-dark.svg" alt="github">
+            <img class="w-[22px] h-[22px]" src="@/assets/skill-icons--github-dark.svg" alt="Nebuluxe">
           </el-button>
         </div>
 

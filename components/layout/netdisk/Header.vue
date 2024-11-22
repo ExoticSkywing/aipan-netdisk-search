@@ -6,11 +6,11 @@ const colorMode = useColorMode()
     <div class="backdrop-blur dark:bg-gray-800 py-4 fixed top-0 left-0 w-full z-50">
         <div class="max-w-[1240px] mx-auto flex flex-row items-center justify-between px-[20px]">
             <div class="flex flex-row items-center gap-4">
-                <nuxt-link to="/blog" class="text-sm text-slate-600 dark:text-white">
-                    📚 我的博客
+                <nuxt-link to="https://lmyz.1yo.cc" class="text-sm text-slate-600 dark:text-white">
+                    ✨ 官网
                 </nuxt-link>
-                <nuxt-link to="/tv" class="text-sm text-slate-600 dark:text-white ">
-                    📺 电视TV
+                <nuxt-link to="https://t.me/nebuluxe" class="text-sm text-slate-600 dark:text-white ">
+                    🎠 更多资源
                 </nuxt-link>
                 <nuxt-link to="/tvbox" class="text-sm text-slate-600 dark:text-white ">
                     📺 TVbox接口

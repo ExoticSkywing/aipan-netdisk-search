@@ -114,13 +114,13 @@ onMounted(async () => {
                 </div>
                 <div class="mt-5 border-t border-slate-100 py-4 flex flex-row flex-wrap gap-2">
                     <nuxt-link class="flex flex-col items-center justify-center gap-1"
-                        to="https://github.com/unilei/aipan-netdisk-search">
-                        <img class="w-8 h-8" src="@/assets/skill-icons--github-dark.svg" alt="github">
-                        <span class="text-xs text-slate-500">GitHub</span>
+                        to="https://lmyz.1yo.cc">
+                        <img class="w-8 h-8" src="https://api.minio.ysl.monster/nebuluxe/halosparkpix/202311092002032.png" alt="Nebuluxe">
+                        <span class="text-xs text-slate-500">Nebuluxe</span>
                     </nuxt-link>
-                    <nuxt-link class="flex flex-col items-center justify-center gap-1" to="/donate">
-                        <img class="w-8 h-8" src="@/assets/donation/dashang.svg" alt="打赏">
-                        <span class="text-xs text-slate-500">打赏</span>
+                    <nuxt-link class="flex flex-col items-center justify-center gap-1" to="https://t.me/nebuluxe">
+                        <img class="w-8 h-8" src="https://api.minio.ysl.monster/nebuluxe/halosparkpix/image-9miy.png" alt="频道/群组">
+                        <span class="text-xs text-slate-500">频道群组</span>
                     </nuxt-link>
                 </div>
             </div>
